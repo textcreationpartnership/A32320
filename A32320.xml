@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gracious speech to both Houses of Parliament, with the Lord Keepers, on Monday February 14, 1669/0</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32320</idno>
+            <idno type="STC">Wing C3151</idno>
+            <idno type="STC">ESTC R22668</idno>
+            <idno type="EEBO-CITATION">12124958</idno>
+            <idno type="OCLC">ocm 12124958</idno>
+            <idno type="VID">54558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32320)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54558)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 760:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gracious speech to both Houses of Parliament, with the Lord Keepers, on Monday February 14, 1669/0</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>[London] In the Savoy :</pubPlace>
+                  <date>1669/70.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Concerns supply bill for paying off expenses incurred in Anglo-Dutch War of 1664-1667.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1664-1667.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54558:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>His Majeſties MOST GRACIOUS SPEECH To Both Houſes of
+PARLIAMENT, WITH THE LORD KEEPERS, On <hi>Monday February</hi> 14, 166<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>
+               <hi>By His Majeſties Command.</hi>
+            </p>
+            <p>In the <hi>SAVOY,</hi> Printed by the Aſſigns of <hi>John
+Bill</hi> and <hi>Chriſto<g ref="char:EOLhyphen"/>pher Barker,</hi> Printers to the Kings moſt
+Excellent Majeſty. 166<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>C<g ref="char:V">Ʋ</g>M
+PRIVILEGIO.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:54558:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <pb n="3" facs="tcp:54558:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>His Majeſties MOST GRACIOUS SPEECH To both Houſes of
+PARLIAMENT, With the LORD KEEPERS, on <hi>Monday, February</hi> 14, 166<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>/<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Sent forth My Pro<g ref="char:EOLhyphen"/>clamation that there might be a good
+Ap<g ref="char:EOLhyphen"/>pearance at this Meeting, having moſt confidence in full Houſes, where
+the well-being of the Church, and all o<g ref="char:EOLhyphen"/>ther Intereſts of the Crown and
+Na<g ref="char:EOLhyphen"/>tion are beſt ſecured.</p>
+            <pb n="4" facs="tcp:54558:3"/>
+            <!-- PDF PAGE 9 -->
+            <p>When we laſt met, I asked you a Sup<g ref="char:EOLhyphen"/>ply, and I ask it now
+again with greater Inſtance: the uneaſineſs and ſtraightneſs of my
+Affairs cannot continue with<g ref="char:EOLhyphen"/>out very ill Effects to the whole King<g ref="char:EOLhyphen"/>dom:
+Conſider this ſeriouſly and ſpeedi<g ref="char:EOLhyphen"/>ly; it is yours and the Kingdoms
+Inte<g ref="char:EOLhyphen"/>reſt as well as Mine; and the ill Conſe<g ref="char:EOLhyphen"/>quence of a want of an
+effectual Supply muſt not lie at my Door: And that no miſapprehenſions or
+miſtakes touching the Expences of the laſt War may re<g ref="char:EOLhyphen"/>main with you, I
+think fit to let you know, that I have fully informed My self in that Matter,
+and do affirm to you, That no part of thoſe Moneys that you gave Me for that
+War, have been diverted to other uſes; but on the con<g ref="char:EOLhyphen"/>trary, beſides all
+thoſe Supplies, a very great Summe hath been raiſed out of My ſtanding
+Revenue and Credit, and a very great Debt contracted, and all for the War.</p>
+            <p>One Thing I muſt earneſtly recom<g ref="char:EOLhyphen"/>mend to the Prudence of
+both Houſes, that you will not ſuffer any occaſion of Difference between
+your ſelves to be revived; ſince nothing but the <g ref="char:V">Ʋ</g>nity 
+<pb n="5" facs="tcp:54558:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 9 -->of your Minds and
+Counſels, can make this Meeting happy either to Me or to the Nation.</p>
+            <p>I did recommend to you at Our laſt Meeting, the <g ref="char:V">Ʋ</g>nion of the
+Two King<g ref="char:EOLhyphen"/>doms, and I did the ſame to My Par<g ref="char:EOLhyphen"/>liament in <hi>Scotland,</hi>
+they have made a great ſtep towards it; and I do again ſe<g ref="char:EOLhyphen"/>riouſly
+recommend that Matter to you.</p>
+            <p>I have directed My <hi>Lord Keeper</hi> to ſpeak more at large
+to you.</p>
+            <pb facs="tcp:54558:4"/>
+            <!-- PDF PAGE 10 -->
+         </div>
+         <div type="speech">
+            <pb n="7" facs="tcp:54558:4"/>
+            <!-- PDF PAGE 10 -->
+            <head>The Lord Keepers Speech.</head>
+            <opener>
+               <salute>
+                  <hi>My Lords, and you Knights, Citizens and Burgeſſes
+of the Houſe of Commons,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>T your laſt meeting, His Majeſty did acquaint you with the
+great occaſions He had for a Supply, and that He had forborn to ask it
+ſooner, more in conſideration of gi<g ref="char:EOLhyphen"/>ving ſome time, for the eaſe of the
+peo<g ref="char:EOLhyphen"/>ple after the burden of the War: then that the condition of His Affairs
+could ſo long have wanted it: And His Majeſty hath Commanded me now, to
+ſpeak more fully and plainly upon this Subject.</p>
+            <p>His Majeſty hath not only by His Miniſters, but in His own
+Royal Per<g ref="char:EOLhyphen"/>ſon examined the Accompts, touching the Expences of the laſt War,
+and hath thought Himſelf concerned to let you know, That all the Supplies
+which you gave Him for the War, have been <pb n="8" facs="tcp:54558:5"/>
+               <!-- PDF PAGE 11 -->by
+Him applyed to the War, and no part of them to any other uſes: Nay ſo far
+from it, that if the Preparations towards the War, ſhall be taken to be for
+the uſe of the War, as they muſt be: A great part of His own Reve<g ref="char:EOLhyphen"/>nue, to
+many Hundred thouſands of pounds hath been employed alſo, and ſwallowed
+up in the Charges of the War, and what did neceſſarily relate to it: To
+which may be added the great Debts Contracted by His Majeſty in the War, and
+the great Charge in the Repairs of the Hulls of His Ships, and putting His Navy
+into ſuch a conditi<g ref="char:EOLhyphen"/>on; as it was before.</p>
+            <p>Beſides, His Majeſty thinks it ought: to be conſidered,
+That when the Charges of the War were at the higheſt, the inevitable effects
+of it and thoſe other calamities, which it pleaſed God at that time to
+bring up<g ref="char:EOLhyphen"/>on us, did make ſo great a diminu<g ref="char:EOLhyphen"/>tion in His Revenues, that
+beſides all other accidents and diſadvantages the loſs that He
+ſuſtained in Three Branches of His Revenues: In His Cuſtoms, Exciſe,
+and Hearth-money, <pb n="9" facs="tcp:54558:5"/>
+               <!-- PDF PAGE 11 -->by reaſon
+of the War, the Plague, and the Fire, did amount to little leſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then Six hundred thouſand pounds.</p>
+            <p>Thus you ſee, That though your Supplies have been great, yet
+the Charges occaſioned by the War, and the Calamities which accompanied it,
+have been greater: And that the Debt which is left upon His Majeſty and which
+He complains of, hath been contracted by the War, and not by the diverſion of
+the Moneys deſigned for it.</p>
+            <p>His Majeſty hath Commanded me to ſay one thing more to you
+upon this Subject, That He did not enter into this War upon any private
+inclinati<g ref="char:EOLhyphen"/>on or appetite of His own: The firſt ſtep He made towards it, did
+ariſe from your Advice, and the Promiſes of your Aſſiſtance; But if
+the Charge<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Accidents of the
+War, have out<g ref="char:EOLhyphen"/>gone all your Supplies, and left Him under the burden of this
+Debt, He thinks that as well the Juſtice to your Promiſe, as the Duty and
+Loyalty you have always ſhewed Him, will ob<g ref="char:EOLhyphen"/>lige you to relieve Him from it:
+And <pb n="10" facs="tcp:54558:6"/>
+               <!-- PDF PAGE 12 -->the rather, when you
+ſhall ſeriouſly conſider, how uneaſie this burden muſt be to Him,
+and what ill conſe<g ref="char:EOLhyphen"/>quences the continuance under it mu<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> draw upon all His Affairs: In which particular, you, and
+every perſon yo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> repreſent in
+this Nation, will be con<g ref="char:EOLhyphen"/>cerned, as well as Himſelf.</p>
+            <p>His Majeſty doth therefore Com<g ref="char:EOLhyphen"/>mand me in His Name, to
+deſire you once more, and to conjure you, by that conſtant Duty and Loyalty
+which you have always expreſſed to Him, and by all the concernment you
+have, for the Support of the Honour and Safety of His Government, to provide
+ſuch a Supply for Him at this time, as may bear proportion to the
+preſſing Occaſi<g ref="char:EOLhyphen"/>ons that He hath, and to the ſtate of Hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Affairs at home and abroad: And ſo
+ſpeedily, And ſo effectually, as may anſwer the ends for which He hath
+deſired it.</p>
+            <p>His Majeſty hath further Command<g ref="char:EOLhyphen"/>ed me to put you in mind of
+what was at your laſt meeting propoſed to you, concerning an Union between
+the two Kingdoms, and to let you know, <pb n="11" facs="tcp:54558:6"/>
+               <!-- PDF PAGE 12 -->That
+the Parliament of <hi>Scotland</hi> hath ſince declared to His Majeſty,
+That ſuch Commiſſioners as His Majeſty ſhall name, ſhall be
+Authorized on their part, to treat with Commiſſioners for this Kingdom,
+upon the Grounds and Conditions of the Union: His Majeſty therefore thought
+fit now again to recommend it to you, to take that matter effectually into your
+Conſideration.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY,</hi> Printed by the Aſſigns of <hi>John
+Bill</hi> and <hi>Chriſto<g ref="char:EOLhyphen"/>pher Barker,</hi> Printers to the Kings moſt
+Excellent Majeſty. 1669.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
